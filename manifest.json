@@ -1,0 +1,65 @@
+{
+  "id": "/",
+  "name": "Bharat ka Kaam",
+  "short_name": "Bharat ka Kaam",
+  "description": "Bharat ka Kaam - Connect directly with employers, businesses, and job seekers across India.",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#051c33",
+  "theme_color": "#051c33",
+  "orientation": "portrait-primary",
+  "categories": ["business", "utilities", "productivity"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Find Jobs",
+      "short_name": "Jobs",
+      "description": "Search and apply for daily wage, cloth, and delivery jobs",
+      "url": "/?tab=jobs",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Find Workers",
+      "short_name": "Workers",
+      "description": "Find verified daily wage workers, delivery partners and professionals",
+      "url": "/?tab=workers",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-1.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Bharat ka Kaam Platform"
+    },
+    {
+      "src": "/screenshot-2.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Work Recruitment Portal"
+    }
+  ]
+}

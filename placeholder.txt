@@ -1,0 +1,1 @@
+This directory is for public assets. If you want to use your own video, rename your video file to 'video.mp4' and upload/place it inside this 'public' folder. It will then play automatically in the app onboarding screen.
